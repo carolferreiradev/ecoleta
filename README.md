@@ -1,6 +1,6 @@
 # Ecoleta
 
-Site com sistema de cadastros de entidades que realizam coletas de resíduos, onde pode ser realizada a pesquisa a fim de localizar tais pontos, tendo assim tais resíduos com descarte em locais adequados.
+Site com sistema de cadastros de entidades que realizam coletas de resÃ­duos, onde pode ser realizada a pesquisa a fim de localizar tais pontos, tendo assim tais resÃ­duos com descarte em locais adequados.
 
   - Desenvolvido durante a Next Level Week - Rocketseat
   - O sistema busca os estados e seus respectivos municipios utilizando a API do IBGE 
@@ -21,12 +21,7 @@ FRONT-END:
 
 BACK-END
 
-
-  - JavaScript
-
   - Node.js
-
-  - Git Bash
 
 
 BANCO DE DADOS
@@ -38,7 +33,7 @@ TEMPLATE ENGINE
 
   - Nunjucks
 
-### Instalação e dependências 
+### InstalaÃ§Ã£o e dependÃªncias 
 
 Package Json
 ```sh
